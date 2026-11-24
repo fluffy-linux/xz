@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 # SPDX-License-Identifier: 0BSD
 
 exec "$srcdir/test_compress.sh" compress_generated_random
